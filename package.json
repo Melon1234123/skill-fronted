@@ -1,0 +1,6 @@
+{
+  "name": "skill-fronted",
+  "private": true,
+  "type": "module",
+  "scripts": { "validate": "node scripts/validate-skill.mjs" }
+}

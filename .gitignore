@@ -1,0 +1,5 @@
+/.worktrees/
+/.superpowers/
+/docs/superpowers/
+templates/vite-showcase-starter/node_modules/
+templates/vite-showcase-starter/dist/
