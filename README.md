@@ -1,6 +1,6 @@
-# skill-fronted
+# frontend-showcase
 
-`skill-fronted` 是一套面向高质量产品展示页的网页展示 skill：它保留“证据优先、材质分章、克制动效”的工作方法，同时明确 React、TypeScript、Vite 的工程边界、降级策略与交付要求。它适用于需要叙事与真实信息密度、但不希望落入模板化 landing page 的产品展示页。
+`frontend-showcase` 是一套面向高质量产品展示页的网页展示 skill：它保留“证据优先、材质分章、克制动效”的工作方法，同时明确 React、TypeScript、Vite 的工程边界、降级策略与交付要求。它适用于需要叙事与真实信息密度、但不希望落入模板化 landing page 的产品展示页。
 
 ## 三种使用模式
 
