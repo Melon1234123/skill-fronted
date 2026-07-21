@@ -1,6 +1,6 @@
-# frontend-showcase
+# skill-fronted
 
-`frontend-showcase` 是一套用于高质量产品展示页的网页展示 skill：它保留“证据优先、材质分章、克制动效”的工作方法，同时明确 React、TypeScript、Vite 的工程边界、降级策略与验收标准。它适用于需要有叙事、有真实信息密度、但不想落入模板化 landing page 的产品展示页。
+`skill-fronted` 是一套面向高质量产品展示页的网页展示 skill：它保留“证据优先、材质分章、克制动效”的工作方法，同时明确 React、TypeScript、Vite 的工程边界、降级策略与交付要求。它适用于需要叙事与真实信息密度、但不希望落入模板化 landing page 的产品展示页。
 
 ## 三种使用模式
 
@@ -21,7 +21,7 @@ Assets: [paths or none]. Desktop/responsive scope: [scope].
 Present 2-3 art directions and wait for my selection before coding.
 ```
 
-如果已有视觉语言，可将第一句改为 `Use frontend-showcase in signature mode.`；如果只是希望先获得可运行项目，则写 `Use frontend-showcase in starter mode.`。具体规则、媒体政策、工程实现方式和验收项都在 [SKILL.md](SKILL.md) 及 `references/` 中。
+如果已有视觉语言，可将第一句改为 `Use frontend-showcase in signature mode.`；如果只是希望先获得可运行项目，则写 `Use frontend-showcase in starter mode.`。具体规则、媒体政策、工程实现方式和交付要求都在 [SKILL.md](SKILL.md) 及 `references/` 中。
 
 ## 使用 starter
 
@@ -38,7 +38,7 @@ npm run dev
 
 模板故意只提供语义化骨架、可访问的主行动、分章节结构和 reduced-motion 基线；选择方向并补齐真实文案、素材与交互后，才是最终页面。
 
-## 本地校验
+## 本地检查
 
 在本仓库根目录执行：
 
